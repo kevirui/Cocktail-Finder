@@ -4,8 +4,8 @@
 
 ## 🚀 Demo
 
-🔗 Plataforma en producción: [https://tu-url-deploy.com](https://tu-url-deploy.com)  
-📂 Repositorio en GitHub: [https://github.com/tu-usuario/cocktail-finder](https://github.com/tu-usuario/cocktail-finder)
+🔗 Plataforma en producción: [https://cocktail-finder-lac.vercel.app/](https://cocktail-finder-lac.vercel.app/)  
+📂 Repositorio en GitHub: [https://github.com/kevirui/Cocktail-Finder](https://github.com/kevirui/Cocktail-Finder)
 
 ## 🧪 Tecnologías utilizadas
 
@@ -28,12 +28,14 @@
 ## 📦 Instalación local
 
 ```bash
-git clone https://github.com/tu-usuario/cocktail-finder.git
+git clone https://github.com/kevirui/Cocktail-Finder
 cd cocktail-finder
 npm install
 npm run dev
+``
 
 ## 🗂️ Estructura del proyecto
+``
 src/
 │
 ├── components/        # Componentes reutilizables
@@ -45,9 +47,10 @@ src/
 ├── utils/          # Schemas zod
 ├── router.tsx            # Enrutamiento principal
 └── main.tsx           # Punto de entrada
+``
 
 
 ## 📄 Licencia
 Este proyecto está bajo la licencia MIT.
 
-Desarrollado con ❤️ por keviru
+Desarrollado con ❤️ por kevirui
