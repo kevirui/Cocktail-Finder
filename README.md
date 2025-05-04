@@ -32,10 +32,10 @@ git clone https://github.com/kevirui/Cocktail-Finder
 cd cocktail-finder
 npm install
 npm run dev
-``
+```
 
 ## 🗂️ Estructura del proyecto
-``
+```
 src/
 │
 ├── components/        # Componentes reutilizables
@@ -47,7 +47,7 @@ src/
 ├── utils/          # Schemas zod
 ├── router.tsx            # Enrutamiento principal
 └── main.tsx           # Punto de entrada
-``
+```
 
 
 ## 📄 Licencia
