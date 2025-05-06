@@ -7,6 +7,16 @@
 🔗 Plataforma en producción: [https://cocktail-finder-lac.vercel.app/](https://cocktail-finder-lac.vercel.app/)  
 📂 Repositorio en GitHub: [https://github.com/kevirui/Cocktail-Finder](https://github.com/kevirui/Cocktail-Finder)
 
+## 🧠 Integración con IA
+
+Ahora puedes hacer preguntas libremente sobre recetas de cócteles gracias a la integración con **LLaMA 4**, el modelo de lenguaje de Meta.  
+Ejemplos de preguntas:
+
+- _"¿Qué puedo preparar con ron y limón?"_
+- _"¿Cuál es un cóctel clásico para una cita romántica?"_
+
+La IA responde directamente desde una nueva página dedicada a consultas abiertas, brindando una experiencia más interactiva y personalizada.
+
 ## 🧪 Tecnologías utilizadas
 
 - ⚛️ **React** — Biblioteca principal para construir la interfaz.
@@ -16,6 +26,7 @@
 - 🧭 **React Router DOM** — Navegación entre vistas.
 - 🎨 **TailwindCSS** — Estilos modernos y responsivos con utilidades.
 - 🍸 **TheCocktailDB API** — Fuente de recetas y datos de cócteles.
+- 🤖 **LLaMA 4 (Meta AI)** — Para respuestas inteligentes sobre recetas
 
 ## ✨ Funcionalidades
 
@@ -23,6 +34,7 @@
 - Filtrar recetas por categoría (ej. "Cocktail", "Ordinary Drink", etc.).
 - Visualizar detalles de cada bebida: instrucciones, imagen, ingredientes.
 - Diseño responsive y atractivo para móviles y escritorio.
+- Hacer preguntas personalizadas a la IA (LLaMA 4).
 - Navegación fluida entre vistas.
 
 ## 📦 Instalación local
